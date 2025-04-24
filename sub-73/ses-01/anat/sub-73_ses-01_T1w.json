@@ -1,0 +1,10 @@
+{
+    "MGH_TAG_FIELDSTRENGTH": 0,
+    "MGH_TAG_MRI_FRAME": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,0,0",
+    "MGH_TAG_PEDIR": "UNKNOWN\u0000",
+    "MGH_TE": 0,
+    "MGH_TI": 0,
+    "MGH_TR": 2520,
+    "MGH_flip": 0,
+    "command_history": "mri_convert.bin -i INF054.nii -o ../struct_long/FS/INF054/mri/orig/001.mgz ProgramVersion: $Name: stable6 $  TimeStamp: 2023/02/13-22:11:57-GMT  BuildTimeStamp: Jan 18 2017 16:38:58  CVS: $Id: mri_convert.c,v 1.226 2016/02/26 16:15:24 mreuter Exp $  User: tturesky  Machine: holy7c22110.rc.fas.harvard.edu  Platform: Linux  PlatformVersion: 3.10.0-1160.36.2.el7.x86_64  CompilerName: GCC  CompilerVersion: 40400  \u0000\u0000"
+}
