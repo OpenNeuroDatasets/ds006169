@@ -35,7 +35,7 @@ sub-79/ses-04
 
 
 
-Data dictionary for measures:
+Data dictionary for measures:  
 id				                        -	participant IDs  
 timepoint		                        -	INF=infant, TOD=toddler, PRE=pre-reading, BEG=beginning reading, REA=emergent reading  
 session			                        -	timepoint number  
