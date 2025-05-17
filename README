@@ -6,12 +6,12 @@ For the other dataset, please see https://osf.io/axz5r/.
 
 All participants included in this repository had MR images from at least two timepoints that passed the QC standards for the manuscript referenced above. Any MR images for these participants from additional timepoints were also included regardless of whether they passed the QC standards.
 
-Please note that session numbers correspond to the following developmental timepoints:
-ses-01 = infant
-ses-02 = toddler
-ses-03 = pre-reading
-ses-04 = beginning reading
-ses-05 = emergent reading
+Please note that session numbers correspond to the following developmental timepoints: 
+ses-01 = infant 
+ses-02 = toddler 
+ses-03 = pre-reading 
+ses-04 = beginning reading 
+ses-05 = emergent reading 
 
 FreeSurfer's mri_deface was used to deface all T1w images, except for the following partipants, for whom we used mideface:
 
