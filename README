@@ -40,7 +40,7 @@ participant_id			        -	participant IDs
 timepoint		                        -	INF=infant, TOD=toddler, PRE=pre-reading, BEG=beginning reading, REA=emergent reading  
 session			                        -	timepoint number  
 age				                        -	age in months  
-Sex				                        -	biological sex  
+Sex				                        -	biological sex  (0=male, 1=female)
 MEd			                        -	maternal education  
 HLE				       	                -	home literacy composite (z-normalized)  
 FHD					        -	family history of dyslexia (0=none, 1=first degree relative)  
