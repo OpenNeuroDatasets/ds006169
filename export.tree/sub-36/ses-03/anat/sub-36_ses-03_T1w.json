@@ -1,0 +1,10 @@
+{
+    "MGH_TAG_FIELDSTRENGTH": 0,
+    "MGH_TAG_MRI_FRAME": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,0,0",
+    "MGH_TAG_PEDIR": "UNKNOWN\u0000",
+    "MGH_TE": 0,
+    "MGH_TI": 0,
+    "MGH_TR": 2520,
+    "MGH_flip": 0,
+    "command_history": "ProgramName: mri_convert  ProgramArguments: mri_convert -i ../nifti/PRE_BB108.nii -o PRE_BB108/mri/orig/001.mgz  ProgramVersion: 7.3.2  TimeStamp: 2023/12/02-20:14:32-GMT  BuildTime: Aug  4 2022 00:15:18  BuildStamp: freesurfer-linux-centos7_x86_64-7.3.2-20220804-6354275  User: tturesky  Machine: holy7c22107.rc.fas.harvard.edu  Platform: Linux  PlatformVersion: 4.18.0-425.10.1.el8_7.x86_64  CompilerName: GCC  CompilerVersion: 4.8.5\u0000\u0000"
+}
